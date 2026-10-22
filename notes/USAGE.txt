@@ -1,0 +1,4 @@
+USAGE Eden-Switch-Emulator
+eden emulator. eden switch emulator. Steam Deck.
+Extract. Run. See readme.
+Stamp rev-q3mh4o-20261022
